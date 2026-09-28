@@ -1,0 +1,43 @@
+KrishiNova sound module audio sources
+
+Installed clips are limited to 5 seconds, mono, 22050 Hz, 16-bit PCM WAV. Alarm/distress recordings are prototype deterrent attempts only; they are not guaranteed to make an animal leave.
+
+Bird
+File: bird_alert.wav
+Recording: "scare birds.wav"; uploader describes it as fan noise to scare birds; tagged birds/field/scare. This is practical bird-scaring audio, not a distress-call recording or a field-trial-proven dispersal system.
+Creator: rodrigovaz
+License: Creative Commons Attribution 4.0 (CC BY 4.0); credit the creator and link the license.
+Source page: https://freesound.org/people/rodrigovaz/sounds/477542/
+Installed from Freesound high-quality MP3 preview and converted to 5-second mono, 22050 Hz, 16-bit PCM WAV. Freesound's full WAV download link requires login; the preview was used for this demonstration.
+Commercial documented alternative: Scarecrow B.I.R.D. system/library uses species-specific distress recordings for bird dispersal, but its call library is commercial/proprietary; no downloadable open-license sample was found. Details: https://www.scarecrow.eu/scarecrow-b-i-r-d-system/
+
+Crow
+Uses the same bird-scaring audio as Bird: bird_alert.wav. No separate crow sound is mapped.
+
+monkey_alert.wav
+Recording: Brown woolly monkey troop alarm call
+Creator: Kai Medina (Mk170101)
+License: CC BY-SA 4.0
+Source: https://commons.wikimedia.org/wiki/File:Brown_woolly_monkey_alarm_call.wav
+
+elephant_alert.wav
+Recording: Bee-threat alarm rumble from an African elephant family
+Creators: King L., Soltis J., Douglas-Hamilton I., Savage A., Vollrath F.
+License: CC BY 2.5
+Source: https://commons.wikimedia.org/wiki/File:Bee-Threat-Elicits-Alarm-Call-in-African-Elephants-pone.0010346.s001.ogg
+
+cow_alert.wav
+Recording: Cowbells on Monte Baldo.ogg, a herd of cows grazing near the top cable-car station.
+Creator: Wittylama
+License: CC BY-SA 4.0
+Source: https://commons.wikimedia.org/wiki/File:Cowbells_on_Monte_Baldo.ogg
+Role/caveat: Audible livestock bell/movement cue; the source is not documented as a cattle-scaring or dispersal recording, and no guarantee of moving cattle is made.
+
+wildboar_alert.wav
+Recording: Barking of a dog.ogg
+Creator: Amada44
+License: CC BY-SA 3.0
+Source: https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg
+Role/caveat: Audible predator-warning cue, not a wild-boar alarm call or a field-validated wild-boar deterrent. ZHAW crop research describes a wild-boar deterrent system using boar alarm/warning calls plus sounds associated with danger; its system audio was not publicly available for reuse. Project page: https://www.zhaw.ch/en/lsfm/research/news-und-veranstaltungen/detailed-view-news/event-news/using-an-acoustic-signal-to-prevent-wild-boars-from-damaging-crops
+
+New Cow and Wildboar sources converted to mono, 22050 Hz, 16-bit PCM WAV, maximum 5 seconds.
